@@ -3,18 +3,26 @@
 ## Sobre Mim
 - 🎓 Estudante de [Sua Área de Estudo] na [Sua Instituição].
 - 💻 Apaixonado por tecnologia e desenvolvimento de software.
-- 🌱 Atualmente estou aprendendo [Linguagem/Ferramenta/Tecnologia].
+- 🌱 Atualmente estou aprendendo **React** e **Vue.js**.
 - 👯 Estou procurando colaborar em projetos de código aberto.
-- 🤔 Estou procurando ajuda com [Tópico/Área].
-- 💬 Pergunte-me sobre [Tópicos que você domina].
+- 🤔 Estou procurando ajuda com **otimização de performance em aplicações web**.
+- 💬 Pergunte-me sobre **JavaScript, React, ou desenvolvimento front-end**.
 - 📫 Como entrar em contato comigo: [Seu Email] ou [LinkedIn/Twitter/etc.].
 - 😄 Pronomes: Ele/Dele.
-- ⚡ Fun fact: Adoro aprender coisas novas e compartilhar conhecimento!
+- ⚡ Fun fact: Adoro criar bots e automatizar tarefas!
 
-## Habilidades
-- **Linguagens de Programação:** Python, JavaScript, [adicione outras].
-- **Ferramentas e Tecnologias:** Git, Docker, React, [adicione outras].
-- **Outras Habilidades:** Resolução de problemas, trabalho em equipe, [adicione outras].
+## Tecnologias
+Aqui estão algumas das tecnologias que eu uso:
+
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 ## Projetos Destacados
 - **[Nome do Projeto](link)** - Breve descrição do projeto.
