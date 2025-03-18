@@ -28,16 +28,32 @@ Aqui estão algumas das tecnologias que eu uso:
 Aqui está o meu nível de conhecimento em algumas linguagens:
 
 ### HTML
-![HTML Progress](https://progress-bar.dev/90/?title=HTML&color=E34F26)
+<div style="background: #E34F26; border-radius: 5px; padding: 3px;">
+  <div style="background: #FFFFFF; width: 90%; border-radius: 3px; text-align: center; color: #E34F26;">
+    90%
+  </div>
+</div>
 
 ### CSS
-![CSS Progress](https://progress-bar.dev/85/?title=CSS&color=1572B6)
+<div style="background: #1572B6; border-radius: 5px; padding: 3px;">
+  <div style="background: #FFFFFF; width: 85%; border-radius: 3px; text-align: center; color: #1572B6;">
+    85%
+  </div>
+</div>
 
 ### JavaScript
-![JavaScript Progress](https://progress-bar.dev/80/?title=JavaScript&color=F7DF1E)
+<div style="background: #F7DF1E; border-radius: 5px; padding: 3px;">
+  <div style="background: #FFFFFF; width: 80%; border-radius: 3px; text-align: center; color: #F7DF1E;">
+    80%
+  </div>
+</div>
 
 ### Lua
-![Lua Progress](https://progress-bar.dev/70/?title=Lua&color=2C2D72)
+<div style="background: #2C2D72; border-radius: 5px; padding: 3px;">
+  <div style="background: #FFFFFF; width: 70%; border-radius: 3px; text-align: center; color: #2C2D72;">
+    70%
+  </div>
+</div>
 
 ## Linguagens Mais Usadas
 Aqui estão as linguagens que eu mais uso no meu dia a dia:
