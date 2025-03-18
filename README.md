@@ -28,7 +28,7 @@ Aqui estão algumas das tecnologias que eu uso:
 Aqui está o meu nível de conhecimento em algumas linguagens:
 
 ### HTML
-![HTML Progress](https://img.shields.io/badge/HTML-90%25-E34F26?style=flat&logo=html5&logoColor=white)
+![HTML Progress](https://img.shields.io/badge/HTML-100%25-E34F26?style=flat&logo=html5&logoColor=white)
 
 ### CSS
 ![CSS Progress](https://img.shields.io/badge/CSS-85%25-1572B6?style=flat&logo=css3&logoColor=white)
