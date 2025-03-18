@@ -22,9 +22,9 @@
 - **[Nome do Projeto](link)** - Breve descrição do projeto.
 
 ## Estatísticas do GitHub
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=radical)
+![Estatísticas do GitHub]([https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=radical](https://github.com/gabrielblyra))
 
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=radical)
+![Linguagens Mais Usadas]([https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=radical](https://github.com/gabrielblyra))
 
 ## Contato
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-linkedin/)
