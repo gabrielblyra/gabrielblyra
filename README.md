@@ -24,6 +24,18 @@ Aqui estão algumas das tecnologias que eu uso:
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
+## Linguagens Mais Usadas
+Aqui estão as linguagens que eu mais uso no meu dia a dia:
+
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
+
+Ou, se preferir, veja minhas estatísticas de linguagens mais usadas no GitHub:
+
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielblyra&layout=compact&theme=radical&hide=other,lua)
+
 ## Projetos Destacados
 - **[Nome do Projeto](link)** - Breve descrição do projeto.
 - **[Nome do Projeto](link)** - Breve descrição do projeto.
@@ -31,8 +43,6 @@ Aqui estão algumas das tecnologias que eu uso:
 
 ## Estatísticas do GitHub
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=gabrielblyra&show_icons=true&theme=radical)
-
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielblyra&layout=compact&theme=radical)
 
 ## Contato
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-linkedin/)
