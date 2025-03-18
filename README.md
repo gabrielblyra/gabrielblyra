@@ -39,16 +39,6 @@ Aqui está o meu nível de conhecimento em algumas linguagens:
 ### Lua
 ![Lua Progress](https://img.shields.io/badge/Lua-70%25-2C2D72?style=flat&logo=lua&logoColor=white)
 
-## Linguagens Mais Usadas
-Aqui estão as linguagens que eu mais uso no meu dia a dia:
-
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
-
-Ou, se preferir, veja minhas estatísticas de linguagens mais usadas no GitHub:
-
 ![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielblyra&layout=compact&theme=radical&hide=other,lua)
 
 ## Projetos Destacados
