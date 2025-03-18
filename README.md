@@ -28,16 +28,16 @@ Aqui estão algumas das tecnologias que eu uso:
 Aqui está o meu nível de conhecimento em algumas linguagens:
 
 ### HTML
-![HTML Progress](https://progress-bar.dev/90?title=HTML&color=E34F26)
+![HTML Progress](https://img.shields.io/badge/HTML-90%25-E34F26?style=flat&logo=html5&logoColor=white)
 
 ### CSS
-![CSS Progress](https://progress-bar.dev/85?title=CSS&color=1572B6)
+![CSS Progress](https://img.shields.io/badge/CSS-85%25-1572B6?style=flat&logo=css3&logoColor=white)
 
 ### JavaScript
-![JavaScript Progress](https://progress-bar.dev/80?title=JavaScript&color=F7DF1E)
+![JavaScript Progress](https://img.shields.io/badge/JavaScript-80%25-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
 ### Lua
-![Lua Progress](https://progress-bar.dev/70?title=Lua&color=2C2D72)
+![Lua Progress](https://img.shields.io/badge/Lua-70%25-2C2D72?style=flat&logo=lua&logoColor=white)
 
 ## Linguagens Mais Usadas
 Aqui estão as linguagens que eu mais uso no meu dia a dia:
